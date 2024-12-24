@@ -23,6 +23,5 @@ I'm a passionate and results-driven Computer Science graduate with experience in
 
 - 📧 Email: rewa.s.deshpande@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rewa-deshpande/](https://www.linkedin.com/in/rewa-deshpande/)
-- 🌐 GitHub: [github.com/Rewa99](https://github.com/Rewa99)
 
 Feel free to reach out if you'd like to collaborate, discuss projects, or just say hello! 😄
