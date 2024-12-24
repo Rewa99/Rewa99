@@ -21,7 +21,7 @@ I'm a passionate and results-driven Computer Science graduate with experience in
 
 ## Get in Touch
 
-- 📧 Email: rdeshpande1@hawk.iit.edu
+- 📧 Email: rewa.s.deshpande1@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rewa-deshpande/](https://www.linkedin.com/in/rewa-deshpande/)
 - 🌐 GitHub: [github.com/Rewa99](https://github.com/Rewa99)
 
